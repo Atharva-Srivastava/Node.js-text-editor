@@ -1,5 +1,5 @@
 
-This is a real-time text editor made with node.js and socket.io Socket.io is used to stream live changes in the application. 
+This is a real-time collaborative text editor made with node.js and socket.io Socket.io is used to stream live changes in the application. 
 It has been made with node and express as its backend. It runs on the url "https://localhost:3000"
 
 
